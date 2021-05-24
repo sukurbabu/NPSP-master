@@ -1,0 +1,22 @@
+{
+  "orgName": "NPSP - Beta Org - Multicurrency",
+  "edition": "Developer",
+  "features": [
+    "MultiCurrency"
+  ],
+  "hasSampleData": "false",
+  "settings": {
+    "chatterSettings": {
+      "enableChatter": true
+    },
+    "apexSettings": {
+      "enableDisableParallelApexTesting": true
+    },
+    "enhancedNotesSettings": {
+      "enableEnhancedNotes": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "orgName": "NPSP - Beta Org - Person Accounts",
+  "edition": "Developer",
+  "features": [
+    "PersonAccounts"
+  ],
+  "hasSampleData": "false",
+  "settings": {
+    "chatterSettings": {
+      "enableChatter": true
+    },
+    "apexSettings": {
+      "enableDisableParallelApexTesting": true
+    },
+    "enhancedNotesSettings": {
+      "enableEnhancedNotes": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    }
+  }
+}

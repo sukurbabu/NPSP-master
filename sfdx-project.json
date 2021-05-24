@@ -1,0 +1,10 @@
+{
+  "packageDirectories": [
+    {
+      "path": "src",
+      "default": true
+    }
+  ],
+  "namespace": "npsp",
+  "sourceApiVersion": "48.0"
+}
